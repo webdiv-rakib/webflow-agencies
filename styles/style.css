@@ -61,7 +61,7 @@ header {
 
 /* Action section design */
 #action-section {
-    background-color: #e4e6ff;
+    background-color: #f5f8ff;
 }
 
 .action-container {
@@ -72,4 +72,26 @@ header {
     margin: 0 auto;
     padding-top: 116px;
     gap: 220px;
+}
+
+.action-title {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.action-des {
+    font-size: 24px;
+    font-weight: 400;
+    color: #25243280;
+    margin: 23px 0px;
+}
+
+.launch-btn {
+    padding: 12px 36px;
+    font-size: 16px;
+    font-weight: 700;
+    background-color: #4E47FF;
+    border: none;
+    border-radius: 10px;
+    color: white;
 }
