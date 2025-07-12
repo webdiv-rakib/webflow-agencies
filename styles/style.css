@@ -132,11 +132,46 @@ header {
 }
 
 /* Review section design */
-#review-section{
+#review-section {
     background-color: #f5f8ff;
+    padding-top: 80px;
 
 }
-.review-cards{
+
+.review-cards {
     width: 1140px;
     margin: 0 auto;
+}
+
+.review-card-section {
+    display: flex;
+    gap: 20px;
+    margin-top: 50px;
+}
+
+.card-content {
+    width: 366px;
+    padding: 24px;
+    background-color: #FFFFFF80;
+    border-radius: 14px;
+}
+
+.review-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.review-des {
+    font-size: 16px;
+    font-weight: 400;
+    color: #1E1E1E;
+    margin-top: 5px;
+}
+
+.reviwer-name {
+    font-size: 16px;
+    font-weight: 600;
+    color: #757575;
+    margin-top: 30px;
 }
