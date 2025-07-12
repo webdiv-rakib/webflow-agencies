@@ -130,3 +130,13 @@ header {
     font-weight: 400;
     color: #00000080;
 }
+
+/* Review section design */
+#review-section{
+    background-color: #f5f8ff;
+
+}
+.review-cards{
+    width: 1140px;
+    margin: 0 auto;
+}
