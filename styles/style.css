@@ -188,6 +188,7 @@ header {
     text-align: center;
     padding: 50px 80px;
     background-color: white;
+    border-radius: 14px;
 }
 
 .get-start {
@@ -196,4 +197,25 @@ header {
     background-color: #4E47FF;
     color: white;
     border-radius: 10px;
+}
+
+/* Contact section design */
+#contact-section {
+    background-color: #f5f8ff;
+    padding-top: 92px;
+}
+
+.contact-container {
+    width: 1140px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 115px;
+    padding: 71px 0px;
+}
+
+.contact {
+    font-size: 18px;
+    font-weight: 500;
 }
