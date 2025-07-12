@@ -95,3 +95,38 @@ header {
     border-radius: 10px;
     color: white;
 }
+
+/* User section design */
+#user-section {
+    background-color: #f5f8ff;
+    padding-top: 116px;
+}
+
+.user-container {
+    width: 1140px;
+    margin: 0 auto;
+    background-color: #4E47FF1A;
+    border-radius: 24px;
+}
+
+.user-count {
+    padding: 50px 80px;
+}
+
+.achive {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+.count {
+    font-size: 80px;
+    font-weight: 700;
+    color: #4E47FF;
+}
+
+.review {
+    font-size: 20px;
+    font-weight: 400;
+    color: #00000080;
+}
