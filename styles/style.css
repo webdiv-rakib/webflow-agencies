@@ -58,3 +58,18 @@ header {
     font-size: 65px;
     font-weight: 900;
 }
+
+/* Action section design */
+#action-section {
+    background-color: #e4e6ff;
+}
+
+.action-container {
+    width: 1140px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 116px;
+    gap: 220px;
+}
